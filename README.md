@@ -97,6 +97,4 @@ Set this volume level.
 > 
 > ****⚙️ Latest Version :** 1.0**
 > 
->  [com.r2store.videoplayer.aix]([url](https://community.kodular.io/t/free-videoplayer-extension/243501))  (14.7 KB)
-
-
+> <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="http://r2store.000.pe/">com.r2store.videoplayer.aix</a> (14.7 KB)
