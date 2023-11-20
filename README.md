@@ -96,6 +96,7 @@ Set this volume level.
 > ****🌎 Updated on :** 20 November 2023**
 > 
 > ****⚙️ Latest Version :** 1.0**
->  [](url)
+> 
+>  [com.r2store.videoplayer.aix]([url](https://community.kodular.io/t/free-videoplayer-extension/243501))  (14.7 KB)
 
 
